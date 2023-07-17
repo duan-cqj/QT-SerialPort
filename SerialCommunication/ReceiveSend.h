@@ -1,0 +1,4 @@
+#ifndef RECEIVESEND_H
+#define RECEIVESEND_H
+
+#endif // RECEIVESEND_H
